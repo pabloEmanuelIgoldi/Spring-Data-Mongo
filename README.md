@@ -106,7 +106,7 @@ Cliente oficial de Mongo para visualizar la base de datos:
 ### Pasos:
 
 1. Clona el repositorio.
-2. Configura las propiedades en `application.properties` con los parametro que tu base de datos.
+2. Configura las propiedades en `application.properties` con los parametros de tu base de datos.
 3. Levanta Mongo DB (puedes usar Docker).
 4. Levanta la aplicación.
 5. Usa Swagger para probar la aplicación.
