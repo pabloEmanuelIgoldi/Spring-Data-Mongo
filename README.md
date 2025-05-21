@@ -6,7 +6,7 @@
 ### Tecnologías y Dependencias
 ### Spring Data MongoDB
 ### Ejecución del Proyecto
-### Documentacion oficial
+### Documentación oficial
 ### Índice de proyectos Spring
 
 
@@ -152,7 +152,7 @@ http://localhost:8080/api-mongo-docs
 
 
 ---
-#  **Documentacion oficial**
+#  **Documentación oficial**
 
 https://docs.spring.io/spring-data/mongodb/reference/
 
