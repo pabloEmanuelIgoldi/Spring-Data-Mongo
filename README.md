@@ -172,3 +172,5 @@ https://www.mongodb.com/resources/products/compatibilities/spring-boot
 ##  **Proyectos Spring Data**
 - [Spring Data + Redis(Cache)](https://github.com/pabloEmanuelIgoldi/Spring-Data-Redis)
 - [Spring Data + Mongo DB (NoSQL)](https://github.com/pabloEmanuelIgoldi/Spring-Data-Mongo)
+- [Spring Data + ElaticSearch](https://github.com/pabloEmanuelIgoldi/Spring-Data-Elasticsearch)
+ 
